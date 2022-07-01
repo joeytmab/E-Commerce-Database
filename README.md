@@ -4,7 +4,7 @@
 
 This app primarily deals with the back end for a dummy e-commerce website. It exclusively features Express.js API in conjunction with Sequelize. MySQL is also used to create, initialize, and seed a database with products by tag, category, and product IDs.
 
-Below are .gif files showing functionality of the app and its aesthetics on the repository.
+Below are .gif files showing functionality of the app. In order to test the API routing, Insomnia was used to create the environment for testing.
 
 ### Get All Categories/Tags/Products
 
