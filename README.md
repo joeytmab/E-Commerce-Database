@@ -20,9 +20,9 @@ Below are .gif files showing functionality of the app and its aesthetics on the 
 
 ## Full Movie Link for App Functionality (2 Parts)
 
-![Part 1](https://www.youtube.com/watch?v=VltFkmXgOt8I)
+[Part 1](https://www.youtube.com/watch?v=VltFkmXgOt8I)
 
-![Part 2](https://www.youtube.com/watch?v=vaM9IXlZ-DU)
+[Part 2](https://www.youtube.com/watch?v=vaM9IXlZ-DU)
 
 ## Installation Parameters
 
