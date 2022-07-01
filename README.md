@@ -6,15 +6,15 @@ This app primarily deals with the back end for a dummy e-commerce website. It ex
 
 Below are .gif files showing functionality of the app and its aesthetics on the repository.
 
-# Get All Categories/Tags/Products
+### Get All Categories/Tags/Products
 
 ![Get All Categories/Tags/Products](./assets/13-orm-homework-demo-01.gif)
 
-# Get Category/Tag/Product By ID
+### Get Category/Tag/Product By ID
 
 ![Get Category/Tag/Product By ID](./assets/13-orm-homework-demo-02.gif)
 
-# Create Category/Tag/Product by ID
+### Create Category/Tag/Product by ID
 
 ![Create Category/Tag/Product by ID](./assets/13-orm-homework-demo-03.gif)
 
